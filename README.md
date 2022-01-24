@@ -1,5 +1,5 @@
 # ticker-cik-EDGAR_DB
-This .csv file contains data gathered from EDGAR SEC.
+All CIKs and SICs gathered from EDGAR SEC.
 
 Contents:
 - cik - "central index key", used by the SEC to identify a company in EDGAR database 
