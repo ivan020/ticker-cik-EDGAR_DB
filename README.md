@@ -10,3 +10,4 @@ Contents:
 - stateorcountry - business address of entity
 
 The data may not contain entry for ETFs.
+Only partial data is provided for OTC and ADRs.
